@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS jatekadatbazis;
-CREATE DATABASE jatekadatbazis CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci,;
+CREATE DATABASE jatekadatbazis CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
 USE jatekadatbazis;
 CREATE TABLE jatekok (
     azonosito INT AUTO_INCREMENT PRIMARY KEY,
